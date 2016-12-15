@@ -8,13 +8,13 @@
     "text": "Dan Nicolaus"
   },
   "text": {
-    "more": "blah blahblahblah",
-    "intro": "Test graph ",
-    "title": "Les Mis "
+    "more": " .",
+    "intro": "This is a network of the Nolan\u0027s conspiracy theory surrounding the assassination of JFK.  ",
+    "title": "JFK Assassination Conspiracy Network"
   },
   "legend": {
     "edgeLabel": "Connections",
-    "colorLabel": "",
+    "colorLabel": "Purple: CIA affiliate, Green: JFK associate, Orange: Mob affiliate, Blue: Foreign nation/leader",
     "nodeLabel": "People"
   },
   "features": {
